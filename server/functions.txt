@@ -1,0 +1,16 @@
+user handling function
+    get single user
+    get followers of currentUser
+    get following of currentUser
+
+followers and following function 
+    the currentUser follow anybody
+    the currentUser remove anybody from there followers list
+    the currentUser unfollow anybody from there following list 
+
+
+                
+                        Showing function
+
+showing the current user followers --- remove followers button
+showing the current user following --- unfollow that user button
